@@ -61,6 +61,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
 * [Bup](https://github.com/bup/bup) - Incremental backups with rolling checksums, git packfiles, de-duplication, and a FUSE filesystem.
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
+* [Duplicati](http://www.duplicati.com/) - Backup client with multiple remote storage.
 * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 * [FreeFileSync](http://www.freefilesync.org) - Folder comparison and synchronization tool.
 * [Lsyncd](https://github.com/axkibe/lsyncd) - Watches a local directory trees for changes, and then spawns a process to synchronize the changes. Uses rsync by default.
